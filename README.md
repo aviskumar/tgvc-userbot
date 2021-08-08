@@ -50,6 +50,10 @@ Almost same as `player` plugin but commands only works in Saved Messages,
 
 Commands only works for userbot account itself and its contacts.
 
+## Deploy to Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aviskumar/tgvc-userbot/tree/dev)
+
 ## Requirements
 
 - Python 3.6 or higher
